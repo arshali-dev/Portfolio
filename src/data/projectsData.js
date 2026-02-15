@@ -28,5 +28,6 @@ export const projects = [
       "Real-time cryptocurrency tracking application that displays live coin prices, market trends, and detailed analytics using API integration. Users can search coins, view charts, and monitor market performance in a responsive UI.",
     live: "https://crypto-currency-mu.vercel.app/",
     github: "https://github.com/arshali-dev/CryptoCurrency",
+    // github: "https://github.com/arshali-dev/CryptoCurrency",
   },
 ];

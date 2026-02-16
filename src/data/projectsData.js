@@ -3,8 +3,8 @@ export const projects = [
     title: "E-Commerce Platform",
     description:
       "Full stack shopping site built with Spring Boot & React featuring product catalog, cart system, and secure checkout.",
-    live: "#",
-    github: "#",
+    live: "https://my-shop-eight-zeta.vercel.app/",
+    github: "https://github.com/arshali-dev/myShop",
   },
   {
     title: "Job Portal",

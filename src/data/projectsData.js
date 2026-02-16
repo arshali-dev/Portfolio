@@ -1,5 +1,9 @@
+// import image from '../assets/image.png'
+import img from '../assets/image.png'
+import ecommerce from '../assets/Ecommerce1.png'
 export const projects = [
   {
+    image:ecommerce,
     title: "E-Commerce Platform",
     description:
       "Full stack shopping site built with Spring Boot & React featuring product catalog, cart system, and secure checkout.",
@@ -23,6 +27,7 @@ export const projects = [
 
   // 🔥 YOUR COIN PROJECT
   {
+    image:img,
     title: "Crypto / Coin Tracker App",
     description:
       "Real-time cryptocurrency tracking application that displays live coin prices, market trends, and detailed analytics using API integration. Users can search coins, view charts, and monitor market performance in a responsive UI.",
